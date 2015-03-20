@@ -5,10 +5,10 @@
         id          = "edu.iupui.n300.SimpleDeviceAccess"
         version     = "1.0.0" >
 
-    <name>Simple Device Access</name>
+    <name>Vibration Test</name>
 
     <description>
-        A simple device access example app.
+        vibration test app
     </description>
 
     <author href="https://github.com/ProfessorKevinForbes/SimpleDeviceAccess" email="professorkevinforbes@gmail.com">
